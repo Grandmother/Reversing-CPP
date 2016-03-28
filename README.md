@@ -1,6 +1,9 @@
 # Reversing-CPP
 Learn C++ by reversing it's code. Compiler is: g++ (GCC) 5.3.0. The article that used in this work is attached.
 
+## Run it!
+To run it you just need to run `make` in root directory of project and run any made executable with gdb.
+
 ## GDB setting up
 
 ### Why I need it
